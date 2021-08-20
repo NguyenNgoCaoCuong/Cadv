@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/void_demo.dir/void_demo.c.o  -o void_demo 

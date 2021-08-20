@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="btree"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\DebugPrintf\;CMake Files\libfdr\;CMake Files\btree\;CMake Files\c-vector\;CMake Files\demo\;CMake Files\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bt">
+				<Option output="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/libbt.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/btree/inc"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 bt"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bt/fast">
+				<Option output="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/libbt.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/btree/inc"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 bt/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/btree/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bacfre.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bacini.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/balbk1.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/balblk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bclrlf.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bclrst.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bcpybk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bdbug.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bdelk1.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bdelky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bdemte.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bfndky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bgtfre.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bgtinf.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bgtslt.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/binsky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bjnblk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bjoin.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bleaf.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bmkfre.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bmodky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bnewap.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bnxtbk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bnxtky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bprvky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bputky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/brdblk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bremky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/brepky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bsemap.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bsetbk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bsetbs.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bsptbk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bsrhbk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bstinf.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bsuper.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btchgr.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btcls.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btcrt.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btcrtr.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btdata.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btdelr.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btdupkey.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btdups.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bterr.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btinit.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btlock.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btopn.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btpos.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btque.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btstk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/btthresh.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bupdky.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/butil.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bvalap.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bwrblk.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/src-lib/bxdump.c">
+			<Option target="bt"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/DebugPrintf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\DebugPrintf\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/libfdr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libfdr\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\btree\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/c-vector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\c-vector\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/demo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\demo\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

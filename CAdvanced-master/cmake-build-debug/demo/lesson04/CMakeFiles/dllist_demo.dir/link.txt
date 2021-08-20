@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/dllist_demo.dir/dllist_demo.c.o  -o dllist_demo  ../../DebugPrintf/libdebug_printf.a ../../GRAPH/libfdr/libfdr.a 

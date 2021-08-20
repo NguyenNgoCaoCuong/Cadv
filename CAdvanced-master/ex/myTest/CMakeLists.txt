@@ -1,0 +1,7 @@
+project(test1 C)
+if(USE_IGRAPH)
+    add_executable(main main.c)
+    foreach(myTest main)
+        target_link_libraries(${myTest} ${IGRAPH_LIBS} fdr )
+    endforeach(myTest)
+endif(USE_IGRAPH)

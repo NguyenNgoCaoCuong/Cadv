@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/containers.dir/demo_containers.c.o  -o containers  ../../GRAPH/libfdr/libfdr.a ../../DebugPrintf/libdebug_printf.a 

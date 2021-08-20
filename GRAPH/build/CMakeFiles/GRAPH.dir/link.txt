@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/GRAPH.dir/MyIgraph/src/mygraph.c.o CMakeFiles/GRAPH.dir/MyIgraph/src/queue.c.o CMakeFiles/GRAPH.dir/TEST/20192.c.o  -o GRAPH  libfdr/libfdr.a 

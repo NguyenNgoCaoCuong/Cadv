@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgraph.a  CMakeFiles/graph.dir/src/mygraph.c.o CMakeFiles/graph.dir/src/queue.c.o
+/usr/bin/ranlib libgraph.a

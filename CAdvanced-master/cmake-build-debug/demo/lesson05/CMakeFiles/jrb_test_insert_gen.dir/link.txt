@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/jrb_test_insert_gen.dir/jrb_test_insert_gen.c.o  -o jrb_test_insert_gen  ../../GRAPH/libfdr/libfdr.a ../../DebugPrintf/libdebug_printf.a 

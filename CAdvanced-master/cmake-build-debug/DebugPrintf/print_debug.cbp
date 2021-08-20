@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="print_debug"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\DebugPrintf\;CMake Files\libfdr\;CMake Files\btree\;CMake Files\c-vector\;CMake Files\demo\;CMake Files\test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="debug_printf">
+				<Option output="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/libdebug_printf.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 debug_printf"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="debug_printf/fast">
+				<Option output="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/libdebug_printf.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 debug_printf/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/DebugPrintf/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/DebugPrintf/debug_printf.c">
+			<Option target="debug_printf"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/DebugPrintf/debug_printf.h">
+			<Option target="debug_printf"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/DebugPrintf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\DebugPrintf\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/libfdr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libfdr\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\btree\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/c-vector/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\c-vector\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/demo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\demo\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

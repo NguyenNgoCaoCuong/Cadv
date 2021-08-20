@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/jrb_strsort.dir/jrb_strsort.c.o  -o jrb_strsort  ../../GRAPH/libfdr/libfdr.a 

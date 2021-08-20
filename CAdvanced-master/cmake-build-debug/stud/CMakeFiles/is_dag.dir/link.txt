@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/is_dag.dir/is_dag_main.c.o  -o is_dag  ../../binaries/libigraph.a -lm ../DebugPrintf/libdebug_printf.a 

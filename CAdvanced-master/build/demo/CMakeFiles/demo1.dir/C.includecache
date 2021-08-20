@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libfdr/jrb.h
+jval.h
+../libfdr/jval.h
+
+../libfdr/jval.h
+
+/home/ubuntu/CLionProjects/CAdvanced-master/demo/demo1.c
+stdio.h
+-
+jrb.h
+/home/ubuntu/CLionProjects/CAdvanced-master/demo/jrb.h
+

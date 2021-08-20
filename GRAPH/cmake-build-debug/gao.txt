@@ -1,0 +1,57 @@
+Gạo tẻ	Kg
+Vừng lạc	Kg
+Dầu mỡ ăn	Lít
+Nước mắm loại 1	Lít
+Muối Iot	Kg
+Mì chính	Kg
+Dầu rửa DCCD	Lít
+Trứng vịt	Kg
+Đậu phụ	Kg
+Thịt lợn nạc	Kg
+Thịt bò 	Kg
+Thịt gà loại 1	Kg
+Cá rô phi	kg
+Tôm đầm	kg
+Thịt bê	kg
+Giò nạc	kg
+Chả lợn	kg
+Cuangao	kg
+Rau muống	kg
+Mướp đắng	kg
+Cà chua	kg
+Hành lá	kg
+Dưa chua	kg
+Ớt tươi	kg
+Gừng 	kg
+Hành khô	kg
+Rau mùng tơi	kg
+Dưa hấu	kg
+Ổi 	kg
+Me chua	kg
+Tiêu bắc	kg
+Khay xốp dùng 1 lần	bộ
+Trứng vịt lộn	Kg
+Sữa tươi 180mmml	Hộp
+Dầu di eren	lit
+Gạo tẻ	Kg
+Cá chim	kg
+Thịt vịt	kg
+Thịt lợn mông	kg
+Thịt lợn vai	kg
+Thịt lợn ba chi	kg
+Tỏi	kg
+Chuối	kg
+Bắp cải	kg
+Thịt bò loại 2	kg
+Đường trắng	kg
+Mực tươi	kg
+Cá chép	kg
+Rau ngót	kg
+Tim lợn	kg
+ Đỗ cô ve	kg
+Cá mè	kg
+Cá biển	kg
+Miến	kg
+Mộc nhĩ	kg
+Đa nem	kg
+Riềng	kg

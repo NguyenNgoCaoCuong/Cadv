@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/CLionProjects/CAdvanced-master/DebugPrintf/debug_printf.c
+stdarg.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+debug_printf.h
+/home/ubuntu/CLionProjects/CAdvanced-master/DebugPrintf/debug_printf.h
+
+/home/ubuntu/CLionProjects/CAdvanced-master/DebugPrintf/debug_printf.h
+stdarg.h
+-
+stdio.h
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/CLionProjects/CAdvanced-master/c-vector/cvector.h
+assert.h
+-
+stddef.h
+-
+stdlib.h
+-
+
+/home/ubuntu/CLionProjects/CAdvanced-master/c-vector/example.c
+cvector.h
+/home/ubuntu/CLionProjects/CAdvanced-master/c-vector/cvector.h
+stdio.h
+-
+

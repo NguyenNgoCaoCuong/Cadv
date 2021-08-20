@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/jval_demo.dir/jval_demo.c.o  -o jval_demo  ../../GRAPH/libfdr/libfdr.a 

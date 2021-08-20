@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/jrb_ni_sort1.dir/jrb_ni_sort1.c.o  -o jrb_ni_sort1  ../../GRAPH/libfdr/libfdr.a 

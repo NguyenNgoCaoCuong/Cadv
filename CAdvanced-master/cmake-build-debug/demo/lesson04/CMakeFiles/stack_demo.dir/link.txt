@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/stack_demo.dir/examples/cstack_example.c.o CMakeFiles/stack_demo.dir/cstack.c.o  -o stack_demo  ../../GRAPH/libfdr/libfdr.a 

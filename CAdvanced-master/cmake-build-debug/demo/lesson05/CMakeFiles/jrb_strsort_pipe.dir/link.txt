@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/jrb_strsort_pipe.dir/jrb_strsort_pipe.c.o  -o jrb_strsort_pipe  ../../GRAPH/libfdr/libfdr.a 

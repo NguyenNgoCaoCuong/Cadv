@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MyIgraph/include/data.h
+jrb.h
+../MyIgraph/include/jrb.h
+
+../MyIgraph/include/mygraph.h
+data.h
+../MyIgraph/include/data.h
+jval.h
+../MyIgraph/include/jval.h
+
+../libfdr/fields.h
+stdio.h
+-
+
+../libfdr/jrb.h
+jval.h
+../libfdr/jval.h
+
+../libfdr/jval.h
+
+/home/ubuntu/CLionProjects/GRAPH/TEST/20192.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdio_ext.h
+-
+mygraph.h
+/home/ubuntu/CLionProjects/GRAPH/TEST/mygraph.h
+jval.h
+/home/ubuntu/CLionProjects/GRAPH/TEST/jval.h
+fields.h
+/home/ubuntu/CLionProjects/GRAPH/TEST/fields.h
+jrb.h
+/home/ubuntu/CLionProjects/GRAPH/TEST/jrb.h
+

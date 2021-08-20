@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmyg.a  CMakeFiles/myg.dir/MyIgraph/src/mygraph.c.o CMakeFiles/myg.dir/MyIgraph/src/queue.c.o
+/usr/bin/ranlib libmyg.a

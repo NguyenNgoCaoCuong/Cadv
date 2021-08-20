@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/fp_demo_generic.dir/fp_demo_generic.c.o  -o fp_demo_generic 

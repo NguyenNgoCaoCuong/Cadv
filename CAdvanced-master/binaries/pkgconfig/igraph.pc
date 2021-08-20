@@ -1,0 +1,12 @@
+prefix=/home/ubuntu/C/CAdvanced
+exec_prefix=${prefix}
+libdir=/home/ubuntu/C/CAdvanced/binaries
+includedir=/home/ubuntu/C/CAdvanced
+
+Name: libigraph
+Description: A library for creating and manipulating graphs
+Version: 0.8.2
+URL: http://igraph.org
+Libs: -L${libdir} -ligraph
+Libs.private: -lxml2 -lz -lm
+Cflags: -I${includedir}/igraph

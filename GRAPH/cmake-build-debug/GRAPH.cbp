@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GRAPH"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\libfdr\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GRAPH">
+				<Option output="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/GRAPH" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/CLionProjects/GRAPH"/>
+					<Add directory="/home/ubuntu/CLionProjects/GRAPH/libfdr"/>
+					<Add directory="/home/ubuntu/CLionProjects/GRAPH/MyIgraph/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 GRAPH"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GRAPH/fast">
+				<Option output="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/GRAPH" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/CLionProjects/GRAPH"/>
+					<Add directory="/home/ubuntu/CLionProjects/GRAPH/libfdr"/>
+					<Add directory="/home/ubuntu/CLionProjects/GRAPH/MyIgraph/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 GRAPH/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fdr">
+				<Option output="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/libfdr.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 fdr"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fdr/fast">
+				<Option output="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/libfdr.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 fdr/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/GRAPH/cmake-build-debug/libfdr/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/MyIgraph/src/mygraph.c">
+			<Option target="GRAPH"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/MyIgraph/src/queue.c">
+			<Option target="GRAPH"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/libfdr/dllist.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/libfdr/dllist.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/libfdr/fields.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/libfdr/fields.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/libfdr/jrb.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/libfdr/jrb.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/libfdr/jval.c">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/libfdr/jval.h">
+			<Option target="fdr"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/test.c">
+			<Option target="GRAPH"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/GRAPH/libfdr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libfdr\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

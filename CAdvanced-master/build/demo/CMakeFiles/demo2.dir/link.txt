@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/demo2.dir/demo2.c.o  -o demo2  ../../binaries/libigraph.a -lm ../libfdr/libfdr.a 

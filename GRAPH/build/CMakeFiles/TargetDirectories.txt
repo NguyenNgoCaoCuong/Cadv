@@ -1,0 +1,6 @@
+/home/ubuntu/CLionProjects/GRAPH/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/CLionProjects/GRAPH/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/CLionProjects/GRAPH/build/CMakeFiles/GRAPH.dir
+/home/ubuntu/CLionProjects/GRAPH/build/libfdr/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/CLionProjects/GRAPH/build/libfdr/CMakeFiles/edit_cache.dir
+/home/ubuntu/CLionProjects/GRAPH/build/libfdr/CMakeFiles/fdr.dir

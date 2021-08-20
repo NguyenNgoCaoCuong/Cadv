@@ -1,0 +1,8 @@
+6
+http://www.hust.edu.vn/gioi-thieu  1012
+http://www.hust.edu.vn/di-tep  1010
+http://www.hust.edu.vn/thong-tin  1013
+http://www.hust.edu.vn/nghien-cuu   1015
+http://www.hust.edu.vn/lop-hoc  2001
+http://www.hust.edu.vn/test  2011
+

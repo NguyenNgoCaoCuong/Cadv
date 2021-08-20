@@ -1,0 +1,2 @@
+/home/ubuntu/CLionProjects/CAdvanced-master/app/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/CLionProjects/CAdvanced-master/app/CMakeFiles/edit_cache.dir

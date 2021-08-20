@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/Bai2/fields.h
+stdio.h
+-
+
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/Bai2/jrb.h
+jval.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/Bai2/jval.h
+
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/Bai2/jval.h
+
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/Bai2/main.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdio_ext.h
+-
+stdlib.h
+-
+fields.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/Bai2/fields.h
+jval.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/Bai2/jval.h
+jrb.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/Bai2/jrb.h
+

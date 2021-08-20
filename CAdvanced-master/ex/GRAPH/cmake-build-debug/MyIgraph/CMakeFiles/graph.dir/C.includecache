@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libfdr/dllist.h
+jval.h
+../libfdr/jval.h
+
+../libfdr/jrb.h
+jval.h
+../libfdr/jval.h
+
+../libfdr/jval.h
+
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/src/mygraph.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+data.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/src/data.h
+mygraph.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/src/mygraph.h
+queue.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/src/queue.h
+jval.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/src/jval.h
+jrb.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/src/jrb.h
+dllist.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/src/dllist.h
+
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/src/queue.c
+stdio.h
+-
+stdlib.h
+-
+queue.h
+/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/src/queue.h
+

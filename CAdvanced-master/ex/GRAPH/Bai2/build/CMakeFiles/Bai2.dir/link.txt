@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Bai2.dir/fields.c.o CMakeFiles/Bai2.dir/jrb.c.o CMakeFiles/Bai2.dir/jval.c.o CMakeFiles/Bai2.dir/main.c.o  -o Bai2 

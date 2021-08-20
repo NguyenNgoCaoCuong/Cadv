@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="test1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\GRAPH\;CMake Files\GRAPH\libfdr\;CMake Files\DebugPrintf\;CMake Files\libfdr\;CMake Files\btree\;CMake Files\demo\;CMake Files\demo\lesson02\;CMake Files\demo\lesson03\;CMake Files\demo\lesson04\;CMake Files\demo\lesson05\;CMake Files\demo\lesson06\;CMake Files\myTest\;CMake Files\app\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/btree/inc"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/include"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/btree"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/libfdr"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/btree/inc"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/MyIgraph/include"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/btree"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/libfdr"/>
+					<Add directory="/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ubuntu/CLionProjects/CAdvanced-master/cmake-build-debug/myTest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/myTest/main.c">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\GRAPH\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/GRAPH/libfdr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\GRAPH\libfdr\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/DebugPrintf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\DebugPrintf\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/libfdr/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libfdr\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/btree/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\btree\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/demo/lesson02/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\demo\lesson02\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/demo/lesson03/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\demo\lesson03\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/demo/lesson04/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\demo\lesson04\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/demo/lesson05/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\demo\lesson05\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/demo/lesson06/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\demo\lesson06\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/myTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\myTest\"/>
+		</Unit>
+		<Unit filename="/home/ubuntu/CLionProjects/CAdvanced-master/app/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\app\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

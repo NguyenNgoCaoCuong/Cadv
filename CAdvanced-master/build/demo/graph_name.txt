@@ -1,0 +1,25 @@
+name
+Ha Noi
+Hai Phong
+Thanh Hoa
+Long An
+Dak Lak
+Da Nang
+Lao Cai
+Ha Tinh
+Nghe An
+Bac Ninh
+Hai Duong
+dien tich
+200
+12
+23
+34
+123
+24
+54
+12
+76
+43
+45
+56

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/test_dllist_insert_b.dir/test_dllist_insert_b.c.o  -o test_dllist_insert_b  ../../DebugPrintf/libdebug_printf.a ../../GRAPH/libfdr/libfdr.a 

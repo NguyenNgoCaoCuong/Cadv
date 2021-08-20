@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../libfdr/fields.h
+stdio.h
+-
+
+/home/ubuntu/CLionProjects/GRAPH/test.c
+stdio.h
+-
+fields.h
+/home/ubuntu/CLionProjects/GRAPH/fields.h
+string.h
+-
+

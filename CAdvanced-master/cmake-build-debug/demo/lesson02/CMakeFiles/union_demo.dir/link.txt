@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/union_demo.dir/union_demo.c.o  -o union_demo 

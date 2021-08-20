@@ -1,0 +1,213 @@
+2020-10-01	Gạo tẻ	  35.7	  68.9	  68.9	  12850
+2020-10-01	Vừng lạc	  8.0	  1.0	  1.0	  55000
+2020-10-01	Dầu mỡ ăn	  1.0	  2.0	  2.0	  25000
+2020-10-01	Nước mắm loại 1	  2.0	  4.0	  4.0	  16000
+2020-10-01	Muối Iot	  1.0	  2.0	  2.0	  4000
+2020-10-01	Mì chính	  0.2	  0.5	  0.5	  55000
+2020-10-01	Dầu rửa DCCD	  0.8	  1.5	  1.5	  20000
+2020-10-01	Trứng vịt	null  	null  	  16.0	  46000
+2020-10-01	Đậu phụ	null  	  24.0	null  	  13000
+2020-10-01	Thịt lợn nạc	  15.3	null  	null  	  126000
+2020-10-01	Thịt bò 	null  	  11.5	null  	  270000
+2020-10-01	Thịt gà loại 1	null  	null  	  32.0	  110000
+2020-10-01	Cá rô phi	null  	null  	  40.0	  40000
+2020-10-01	Tôm đầm	null  	  14.0	null  	  135000
+2020-10-01	Thịt bê	null  	  9.4	null  	  270000
+2020-10-01	Giò nạc	null  	null  	  13.0	  130000
+2020-10-01	Chả lợn	null  	  13.0	null  	  130000
+2020-10-01	Cuangao	null  	  20.0	null  	  15000
+2020-10-01	Rau muống	  18.0	  37.0	  35.0	  4500
+2020-10-01	Mướp đắng	null  	  8.0	null  	  15000
+2020-10-01	Cà chua	  6.0	null  	null  	  22000
+2020-10-01	Hành lá	  1.5	null  	null  	  23000
+2020-10-01	Dưa chua	null  	null  	  5.0	  15000
+2020-10-01	Ớt tươi	  1.0	null  	null  	  37000
+2020-10-01	Gừng 	  0.7	null  	null  	  70000
+2020-10-01	Hành khô	  0.5	null  	null  	  25000
+2020-10-01	Rau mùng tơi	null  	  12.0	null  	  5000
+2020-10-01	Dưa hấu	null  	  36.0	null  	  14000
+2020-10-01	Ổi 	null  	null  	  43.0	  12000
+2020-10-01	Me chua	  1.0	null  	  2.0	  15000
+2020-10-01	Tiêu bắc	  0.1	null  	null  	  250000
+2020-10-01	Khay xốp dùng 1 lần	  60.0	null  	null  	  4800
+2020-10-01	Trứng vịt lộn	null  	null  	  178.0	  3500
+2020-10-01	Sữa tươi 180mmml	  88.0	  60.0	  60.0	  6500
+2020-10-01	Dầu di eren	  8.0	  11.0	  11.0	  12500
+2020-10-02	Gạo tẻ	  35.4	  68.3	  68.3	  12850
+2020-10-02	Vừng lạc	  2.7	null  	null  	  55000
+2020-10-02	Dầu mỡ ăn	  1.0	  2.0	  2.0	  25000
+2020-10-02	Nước mắm loại 1	  2.0	  4.0	  4.0	  16000
+2020-10-02	Muối Iot	  1.0	  2.0	  2.0	  4000
+2020-10-02	Mì chính	  0.2	  0.5	  0.5	  55000
+2020-10-02	Dầu rửa DCCD	  0.8	  1.5	  1.5	  20000
+2020-10-02	Trứng vịt	  8.0	null  	  15.0	  46000
+2020-10-02	Đậu phụ	null  	  24.0	null  	  13000
+2020-10-02	Thịt bò 	null  	  11.5	null  	  270000
+2020-10-02	Cá chim	null  	null  	  38.0	  40000
+2020-10-02	Tôm đầm	null  	  14.0	null  	  135000
+2020-10-02	Thịt vịt	null  	null  	  36.0	  75000
+2020-10-02	Chả lợn	null  	  12.8	null  	  130000
+2020-10-02	Thịt lợn mông	  5.5	null  	  5.5	  108000
+2020-10-02	Thịt lợn vai	  5.5	null  	  5.5	  108000
+2020-10-02	Thịt lợn ba chi	  5.5	null  	  5.5	  108000
+2020-10-02	Cuangao	null  	  20.0	null  	  25000
+2020-10-02	Mướp đắng	null  	  8.0	null  	  14000
+2020-10-02	Cà chua	  6.0	null  	null  	  22000
+2020-10-02	Hành lá	  1.5	null  	null  	  23000
+2020-10-02	Ớt tươi	  1.0	null  	null  	  37000
+2020-10-02	Gừng 	  1.0	null  	null  	  70000
+2020-10-02	Tỏi	  0.5	null  	null  	  25000
+2020-10-02	Hành khô	  0.5	null  	null  	  25000
+2020-10-02	Rau mùng tơi	null  	  10.0	null  	  7000
+2020-10-02	Chuối	null  	  36.0	null  	  14000
+2020-10-02	Ổi 	null  	null  	  42.0	  12000
+2020-10-02	Bắp cải	  18.0	  36.0	  36.0	  6000
+2020-10-02	Thịt bò loại 2	null  	  8.0	null  	  180000
+2020-10-02	Đường trắng	null  	  1.0	null  	  15000
+2020-10-02	Mực tươi	null  	null  	  16.0	  150000
+2020-10-02	Khay xốp dùng 1 lần	  61.0	null  	null  	  4800
+2020-10-02	Sữa tươi 180mmml	  89.0	  61.0	  61.0	  6500
+2020-10-02	Dầu di eren	  8.0	  11.0	  11.0	  12500
+2020-10-03	Gạo tẻ	  35.4	  68.3	  30.8	  12850
+2020-10-03	Gạo tẻ	null  	null  	  37.5	  12900
+2020-10-03	Vừng lạc	  8.0	  1.0	  1.0	  55000
+2020-10-03	Dầu mỡ ăn	  1.0	  2.0	  2.0	  25000
+2020-10-03	Nước mắm loại 1	  2.0	  4.0	  4.0	  16000
+2020-10-03	Muối Iot	  1.0	  2.0	  2.0	  4000
+2020-10-03	Dầu rửa DCCD	  0.7	  1.5	  1.5	  20000
+2020-10-03	Trứng vịt	null  	null  	  15.0	  46000
+2020-10-03	Đậu phụ	null  	  23.0	null  	  13000
+2020-10-03	Thịt bò 	null  	  11.5	null  	  270000
+2020-10-03	Thịt gà loại 1	  18.0	null  	  32.0	  108000
+2020-10-03	Cá rô phi	null  	null  	  38.0	  40000
+2020-10-03	Cá chép	null  	  16.6	null  	  65000
+2020-10-03	Tôm đầm	null  	  14.0	null  	  135000
+2020-10-03	Giò nạc	null  	  12.5	null  	  133000
+2020-10-03	Chả lợn	null  	null  	  12.5	  133000
+2020-10-03	Cuangao	null  	  20.0	null  	  25000
+2020-10-03	Rau ngót	null  	  10.0	null  	  6000
+2020-10-03	Cà chua	  6.0	null  	null  	  27000
+2020-10-03	Hành lá	  1.5	null  	null  	  20000
+2020-10-03	Dưa chua	null  	null  	  5.0	  15000
+2020-10-03	Gừng 	  1.0	null  	null  	  70000
+2020-10-03	Tỏi	  0.5	null  	null  	  23000
+2020-10-03	Hành khô	  0.5	null  	null  	  23000
+2020-10-03	Tim lợn	null  	null  	  7.0	  300000
+2020-10-03	Chuối	null  	  36.0	null  	  14000
+2020-10-03	Dưa hấu	null  	null  	  36.0	  14000
+2020-10-03	Bắp cải	  17.0	  35.0	  33.0	  6000
+2020-10-03	Me chua	null  	null  	  2.0	  15000
+2020-10-03	 Đỗ cô ve	null  	  8.0	null  	  7000
+2020-10-03	Khay xốp dùng 1 lần	  62.0	null  	null  	  4800
+2020-10-03	Sữa tươi 180mmml	  91.0	  62.0	  62.0	  6500
+2020-10-03	Dầu di eren	  8.0	  11.0	  11.0	  12500
+2020-10-04	Gạo tẻ	  36.0	  69.4	  69.4	  12900
+2020-10-04	Vừng lạc	  2.5	null  	null  	  55000
+2020-10-04	Dầu mỡ ăn	  1.0	  2.0	  2.0	  25000
+2020-10-04	Nước mắm loại 1	  2.0	  4.0	  4.0	  16000
+2020-10-04	Muối Iot	  1.0	  2.0	  2.0	  4000
+2020-10-04	Mì chính	  0.2	  0.5	  0.5	  55000
+2020-10-04	Dầu rửa DCCD	  0.8	  1.5	  1.5	  20000
+2020-10-04	Trứng vịt	null  	  16.0	null  	  46000
+2020-10-04	Đậu phụ	null  	  23.0	null  	  13000
+2020-10-04	Thịt lợn nạc	null  	null  	  15.0	  133000
+2020-10-04	Thịt gà loại 1	null  	null  	  32.0	  108000
+2020-10-04	Cá mè	null  	null  	  36.0	  33000
+2020-10-04	Cá biển	  15.0	null  	null  	  40000
+2020-10-04	Thịt vịt	null  	  36.0	null  	  78000
+2020-10-04	Giò nạc	null  	  16.5	null  	  133000
+2020-10-04	Thịt lợn mông	  5.5	null  	  5.5	  114000
+2020-10-04	Thịt lợn vai	  5.5	null  	  5.5	  114000
+2020-10-04	Thịt lợn ba chi	  5.5	null  	  5.5	  114000
+2020-10-04	Cuangao	null  	  18.0	null  	  25000
+2020-10-04	Rau muống	  19.0	  40.0	  35.0	  4500
+2020-10-04	Rau ngót	null  	  8.0	null  	  6000
+2020-10-04	Cà chua	  5.0	null  	null  	  27000
+2020-10-04	Hành lá	  1.5	null  	null  	  20000
+2020-10-04	Dưa chua	null  	null  	  3.0	  15000
+2020-10-04	Ớt tươi	  1.0	null  	null  	  32000
+2020-10-04	Gừng 	  1.0	null  	null  	  70000
+2020-10-04	Tỏi	  0.5	null  	null  	  23000
+2020-10-04	Hành khô	  0.5	null  	null  	  23000
+2020-10-04	Miến	null  	null  	  1.0	  40000
+2020-10-04	Mộc nhĩ	null  	null  	  0.3	  100000
+2020-10-04	Đa nem	null  	null  	  2.5	  40000
+2020-10-04	Dưa hấu	null  	  37.0	null  	  14000
+2020-10-04	Ổi 	null  	null  	  43.0	  12000
+2020-10-04	Me chua	  1.0	null  	  2.0	  15000
+2020-10-04	Thịt bò loại 2	null  	null  	  10.0	  180000
+2020-10-04	Mực tươi	null  	  8.2	null  	  150000
+2020-10-04	Riềng	null  	null  	  1.0	  15000
+2020-10-04	Khay xốp dùng 1 lần	  63.0	null  	null  	  4800
+2020-10-04	Sữa tươi 180mmml	  92.0	  63.0	  63.0	  6500
+2020-10-04	Dầu di eren	  8.0	  11.0	  11.0	  12500
+2020-10-05	Gạo tẻ	  36.1	  69.7	  69.7	  12900
+2020-10-05	Vừng lạc	  2.5	null  	null  	  55000
+2020-10-05	Dầu mỡ ăn	  1.0	  2.5	  2.0	  25000
+2020-10-05	Nước mắm loại 1	  2.0	  5.0	  4.0	  16000
+2020-10-05	Muối Iot	  1.0	  2.0	  2.0	  4000
+2020-10-05	Mì chính	  0.2	  0.5	  0.5	  55000
+2020-10-05	Dầu rửa DCCD	  0.8	  1.5	  1.5	  20000
+2020-10-05	Trứng vịt	  15.0	null  	  16.0	  46000
+2020-10-05	Đậu phụ	null  	  23.0	null  	  13000
+2020-10-05	Thịt lợn nạc	  15.5	null  	null  	  133000
+2020-10-05	Thịt gà loại 1	null  	null  	  32.0	  108000
+2020-10-05	Cá rô phi	null  	null  	  39.0	  40000
+2020-10-05	Tôm đầm	null  	  14.2	null  	  135000
+2020-10-05	Thịt bê	null  	  9.8	null  	  270000
+2020-10-05	Thịt vịt	null  	  36.0	null  	  78000
+2020-10-05	Giò nạc	null  	  13.0	null  	  133000
+2020-10-05	Chả lợn	null  	null  	  13.0	  133000
+2020-10-05	Cuangao	null  	  20.0	null  	  25000
+2020-10-05	Rau muống	  18.0	  37.0	  35.0	  4500
+2020-10-05	Cà chua	  5.0	null  	null  	  27000
+2020-10-05	Hành lá	  1.5	null  	null  	  20000
+2020-10-05	Dưa chua	null  	null  	  5.0	  15000
+2020-10-05	Ớt tươi	  1.0	null  	null  	  32000
+2020-10-05	Gừng 	  0.7	null  	null  	  70000
+2020-10-05	Tỏi	  0.7	null  	null  	  23000
+2020-10-05	Hành khô	  0.5	null  	null  	  23000
+2020-10-05	Rau mùng tơi	null  	  13.0	null  	  5000
+2020-10-05	Dưa hấu	null  	  37.0	null  	  14000
+2020-10-05	Ổi 	null  	null  	  43.0	  12000
+2020-10-05	Me chua	  1.0	null  	  1.0	  15000
+2020-10-05	Khay xốp dùng 1 lần	  62.0	null  	null  	  4800
+2020-10-05	Trứng vịt lộn	null  	null  	  184.0	  3500
+2020-10-05	Sữa tươi 180mmml	  91.0	  62.0	  62.0	  6500
+2020-10-05	Dầu di eren	  8.0	  11.0	  11.0	  12500
+2020-10-06	Gạo tẻ	  36.5	  70.5	  70.5	  12900
+2020-10-06	Vừng lạc	  8.0	  1.0	  1.0	  55000
+2020-10-06	Dầu mỡ ăn	  1.0	  2.5	  2.0	  25000
+2020-10-06	Nước mắm loại 1	  2.0	  4.0	  4.0	  16000
+2020-10-06	Muối Iot	  1.0	  2.0	  2.0	  4000
+2020-10-06	Mì chính	  0.2	  0.5	  0.5	  55000
+2020-10-06	Dầu rửa DCCD	  0.8	  1.5	  1.5	  20000
+2020-10-06	Trứng vịt	null  	null  	  16.0	  46000
+2020-10-06	Đậu phụ	null  	  24.0	null  	  13000
+2020-10-06	Thịt bò 	null  	  12.0	null  	  270000
+2020-10-06	Cá mè	null  	null  	  36.0	  33000
+2020-10-06	Tôm đầm	null  	null  	  14.5	  135000
+2020-10-06	Thịt vịt	null  	null  	  36.0	  78000
+2020-10-06	Chả lợn	null  	  13.0	null  	  133000
+2020-10-06	Thịt lợn mông	  6.0	  6.0	null  	  114000
+2020-10-06	Thịt lợn vai	  6.0	  6.0	null  	  114000
+2020-10-06	Thịt lợn ba chi	  6.0	  6.0	null  	  114000
+2020-10-06	Cuangao	null  	  20.0	null  	  25000
+2020-10-06	Cà chua	  5.0	null  	null  	  27000
+2020-10-06	Hành lá	  1.5	null  	null  	  20000
+2020-10-06	Dưa chua	null  	null  	  3.0	  15000
+2020-10-06	Ớt tươi	  1.0	null  	null  	  32000
+2020-10-06	Gừng 	  1.0	null  	null  	  70000
+2020-10-06	Tỏi	  0.5	null  	null  	  23000
+2020-10-06	Hành khô	  0.5	null  	null  	  23000
+2020-10-06	Rau mùng tơi	null  	  10.0	null  	  6000
+2020-10-06	Tim lợn	null  	null  	  7.0	  300000
+2020-10-06	Dưa hấu	null  	  37.0	null  	  14000
+2020-10-06	Ổi 	null  	null  	  43.0	  12000
+2020-10-06	Bắp cải	  19.0	  38.0	  38.0	  6000
+2020-10-06	Me chua	  1.0	null  	  1.0	  15000
+2020-10-06	Thịt bò loại 2	null  	  10.0	null  	  180000
+2020-10-06	Riềng	null  	null  	  1.0	  10000
+2020-10-06	Khay xốp dùng 1 lần	  62.0	null  	null  	  4800
+2020-10-06	Sữa tươi 180mmml	  92.0	  62.0	  62.0	  6500
+2020-10-06	Dầu di eren	  8.0	  11.0	  11.0	  12500

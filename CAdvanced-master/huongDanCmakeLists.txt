@@ -1,0 +1,69 @@
+- Codes which use igraph go below this line
+    add_subdirectory(stud)
+
+
+- Giai thich so bo cac dong code trong file
+    Dong 1 cmake_minimum_required() : chi ra phien ban nho nhat co the chay
+    Dong 2 project                  : dat ten cho project
+    Tiep theo la cac option()       : tu dinh nghia cho phep ta bat mot so option can dung trong qua trinh bien dich project tranh viec bien dich toan bo project (co the bo qua)
+    Cac lenh add_subdirectories()   : them cac thu muc khac vao project
+    Cac lenh include_directories()  : chi ra noi chua cac thu vien ( con cac chuc nang khac ban co the tim hieu them)
+    Cac lenh if() <bla bla> endif()   : trong if la ten tu khoa mk dinh nghia tren _option_ <bla bla> la cac viec se lam neu option do duoc bat len (ON)
+
+- Neu trong qua trinh build gap loi thi chay hai lenh sau trong cung thu muc build ( day la loi mac phai khi ban da build cmake project truoc do va co gang cmake lan nua nen ban can xoa mot so thu muc tranh gay xung dot)
+    rm CMakeCache.txt
+    rm -fr CMakeFiles
+
+- Cach bat cac option bang dong len :
+    cu phap : cmake .. -D_NAME-OPTION=ON
+    < NAME-OPTION : chinh la ten ban dat trong option tuong ung ma ban muon bat no len,tuong tu ban co the dong lai bang lenh tren thay ON  boi OFF)
+    vi du   : cmake .. -DUSE_IGRAPH=ON
+- Cach lien ket cac thu vien igraph,btree,libdr,c-vector,.. vao thu muc chua cac file chay chuong trinh
+
+    TH1 : doi voi cac thu vien duoc build truc tiep khong can dong lenh de bat khoa ( cac thu vien c-vecto,btree,libfdr..) chung ta co the su dung target_links_libraries() de them truc tiep vao file code
+    TH2 : doi voi cac thu vien chi su dung duoc khi bat thu vien do len nhu thu vien igraph thi ta lam nhu sau ( xet vi du cho ca hai truong hop)
+
+  + EX1 : gia su t co thu muc test1 nam trong thu muc goc chua cac file.c sau : f1.c,f2.c,f3.c,f4.c cac file f1,f2 can su dung cac thu vien fdr ,debugPrintf.Conf f3,f3 can thu vien igraph de chay
+
+    project(test1 C)                                   //ten project ( ten nao cung oke het)
+
+    add_executable(f1 f1.c)                            //lan luot chi ra ten file dich cua tung file ( o day co nghia f1.c bien dich ra ket qua la f1)
+    add_executable(f2 f2.c)                            //f2.c bien dich ra ket qua la f2 (co the dat ten khac)
+    foreach (p f1 f2)                                  //de chay duoc hai file nay chung ta can them thu vien fdr va igraph ,debugPrintf.
+      target_link_libraries(${p} fdr debug_printf)     //them hai thu vien vao bien p ( p la bien dai dien cho f1 va f2) .Ta  them truc tiep hai thu vien fdr va debugPrintf vi no luon luon  duoc bat con thu vien igraph can kiem tra khoa co duoc bat hay khong.
+    endforeach (p)                                     //ket thuc viec lien ket thu vien chi hai f1 va f2
+
+    if (USE_IGRAPH)                                    //kiem tra tu thu vien igraph da duoc bat chua (USE_IGRAPH chinh la khoa ta dat trong option trong file cmakelistst.txt o thu muc chinh)
+      add_executable(f3 f3.c)                          //tuong tu nhu f1 va f2
+      add_executable(f4 f4.c)
+      foreach (p f3 f4)                                //dung bien p lam bien dai dien cho hai file f3 va f4
+        target_link_libraries(${p} ${IGRAPH_LIBS})     //them thu vien igraph ( IGRAPH_LIBS laf bien duoc khai bao o dong 35 trong file cmakelists.txt trong thu muc chinh)
+      endforeach (p)                                   //ket thuc khoi lenh them thu vien
+    endif (USE_IGRAPH)                                 //ket thuc viec kiem tra thu vien
+
+
+  NOTE : Chung ta co the thay
+    /*
+        foreach (p f3 f4)
+            target_link_libraries(${p} ${IGRAPH_LIBS})
+        endforeach (p)
+    */
+    bang cac lenh sau
+    /*
+        target_link_libraries(f3 ${IGRAPH_LIBS})
+        target_link_libreries(f4 ${IGRAPH_LIBS})
+    */
+
+- Cac buoc de chay mot project
+    B1 : vao thu muc goc cua project (noi chua file cmaklists chinh)
+    B2 : Mo ter tai thu muc nay
+    B3 : chay lenh "  cmake .  "
+    B4 : chay lenh " make "
+    B5 : chay file ket qua nhu binh thuong
+
+
+ NOTE :  ban co the chay toan bo project trong mot thu muc rieng de tien cho viec them xoa
+  tao mot thu muc trong thu muc goc ( gia su tao thu muc build)
+  di chuyen vao trong thu muc build
+  sau do chay lenh cmake ..
+  tiep theo la make va cuoi cung ta co cac file ket qua

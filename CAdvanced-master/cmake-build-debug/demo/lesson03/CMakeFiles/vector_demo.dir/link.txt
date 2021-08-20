@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/vector_demo.dir/vector_demo.c.o  -o vector_demo  ../../DebugPrintf/libdebug_printf.a 

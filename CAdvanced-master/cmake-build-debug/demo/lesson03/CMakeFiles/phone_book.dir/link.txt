@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/phone_book.dir/phone_book.c.o  -o phone_book  ../../DebugPrintf/libdebug_printf.a 

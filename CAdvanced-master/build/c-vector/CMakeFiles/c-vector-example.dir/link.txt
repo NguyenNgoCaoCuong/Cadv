@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/c-vector-example.dir/example.c.o  -o c-vector-example 

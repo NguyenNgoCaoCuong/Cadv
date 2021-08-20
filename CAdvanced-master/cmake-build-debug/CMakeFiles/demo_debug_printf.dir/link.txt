@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/demo_debug_printf.dir/demo/environment/demo_debug_printf.c.o CMakeFiles/demo_debug_printf.dir/GRAPH/TEST/cuoiKy1.c.o  -o demo_debug_printf  DebugPrintf/libdebug_printf.a 
